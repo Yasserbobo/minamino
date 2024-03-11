@@ -1,0 +1,2 @@
+# minamino
+setting up git
